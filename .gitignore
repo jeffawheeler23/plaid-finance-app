@@ -1,6 +1,8 @@
 /node_modules
 /client/node_modules
 
+/routes/api/plaid.js
+
 client/public/favicon.ico
 client/public/logo192.png
 client/public/logo512.png
